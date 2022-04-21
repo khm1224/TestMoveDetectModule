@@ -1,0 +1,3 @@
+include ':movedetect'
+include ':app'
+rootProject.name = "TestMoveDetectModule"
